@@ -6,7 +6,7 @@
 }
 
 /* Mobile */
-@media (max-width: 590px) {
+@media (max-width: 600px) {
   .navbar .brand h2 {
     font-size: 0.8rem;
   }
