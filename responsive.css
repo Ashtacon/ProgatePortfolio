@@ -6,7 +6,7 @@
 }
 
 /* Mobile */
-@media (max-width: 450px) {
+@media (max-width: 590px) {
   .navbar .brand h2 {
     font-size: 0.8rem;
   }
@@ -21,6 +21,6 @@
   }
   input,
   textarea {
-    width: 22rem;
+    width: 20rem;
   }
 }
