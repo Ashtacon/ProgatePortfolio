@@ -1,0 +1,26 @@
+/* tablets */
+@media (max-width: 860px) {
+  #hero .container .title {
+    font-size: 7.5rem;
+  }
+}
+
+/* Mobile */
+@media (max-width: 450px) {
+  .navbar .brand h2 {
+    font-size: 0.8rem;
+  }
+  .nav-link ul li a {
+    font-size: 0.5rem;
+  }
+  #hero .container .title {
+    font-size: 3.5rem;
+  }
+  #hero .container p.display {
+    font-size: 2rem;
+  }
+  input,
+  textarea {
+    width: 22rem;
+  }
+}
